@@ -2,6 +2,12 @@ PlotManagement
 ==============
 By Zupa and Rosska85<br><br>
 
+
+
+**Forked for reference. This is included in [DayZ-Epoch](https://github.com/EpochModTeam/DayZ-Epoch) since Version 1.0.6.**
+
+
+
 Installation
 ============
 **Non Plot for Life**<br>
